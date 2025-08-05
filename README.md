@@ -1,70 +1,79 @@
-# ACISM Internship – Machine Learning Component Development
+# 🤖 ACISM Internship Report (Machine Learning Components with Xsemble)
 
-This repository contains a detailed report of the work completed during a six-month internship focused on developing modular machine learning components using Python and the Xsemble platform.
+Welcome to the official repository of my 6-month AI/ML internship at **ACISM**.  
+This internship focused on developing modular, reusable components for a low-code AI platform called **Xsemble**, with practical work in data preprocessing, model training, inference, and system debugging.
 
-## 📚 Overview
+---
 
-The internship involved building over 25 reusable ML components, each designed to handle a specific step in the machine learning pipeline—ranging from data preprocessing and transformation to model training, evaluation, and hyperparameter tuning.
+## 🔒 Code Confidentiality Notice
 
-Each component was built with production-level modularity and tested using real-world datasets. The work emphasized clean code practices, system integration, and hands-on debugging within the Xsemble framework.
+Due to project confidentiality and intellectual property policies, the source code developed during this internship **cannot be publicly shared**.
 
-## 🧩 Key Components Built
+However, to provide insight into the scope and depth of work done, this repository includes a detailed report summarizing every machine learning component I contributed to during the internship. The report outlines:
 
-- **Model Training**
-  - AdaBoost
-  - Decision Tree
-  - Support Vector Machine (SVM)
-  - Random Forest
-  - K-Nearest Neighbors (KNN)
-  - Linear Regression
+- The objective and logic behind each component  
+- Implementation details (without disclosing proprietary code)  
+- Tools, libraries, and techniques used  
+- Key learnings and reflections over the 6-month period  
 
-- **Unsupervised Learning**
-  - K-Means Clustering
-  - Hierarchical Clustering
+📄 You can find the complete report here: **[ACISM_Internship_Report.pdf](./ACISM_Internship_Report.pdf)**
 
-- **Data Preprocessing & Feature Engineering**
-  - One-Hot Encoding
-  - Target Encoding
-  - Handling Missing Values
-  - Drop Column
-  - Log Transformation
-  - Date/Time Feature Extraction
-  - Text Cleaning (for NLP)
-  - Data Splitting
+---
 
-- **Model Evaluation & Tuning**
-  - Confusion Matrix Generator
-  - Model Evaluation Metrics (Accuracy, Precision, Recall, F1-Score)
-  - Hyperparameter Tuning (Grid Search)
+## 🛠️ Tools & Technologies
 
-## 🔍 Tools & Technologies
+- **Python 3.10+**
+- **Pandas**, **NumPy**, **Scikit-learn**
+- **Xsemble** (Low-code AI Platform)
+- **Jupyter Notebooks**
+- **modular ML engineering**
+- **pyproject.toml** based packaging
 
-- **Languages**: Python
-- **Platform**: Xsemble
-- **Libraries**: scikit-learn, pandas, numpy
-- **Best Practices**: Modular component design, pyproject.toml, pip packaging, reusable functions
+---
 
-## 📈 Key Learnings
+## 🧠 Key Areas of Work
 
-- Real-world experience in designing and debugging machine learning systems
-- Improved understanding of data preprocessing, model evaluation, and automation
-- Exposure to production-level code practices
-- Hands-on mentorship and technical growth
+### ✅ Technical Enhancements to Xsemble
+- Fixed Python execution and pip versioning issues
+- Migrated build setup to `pyproject.toml`
+- Solved component folder structure issues
+- Improved cross-platform compatibility (especially Windows PATH setup)
 
-## 📄 Report
+### 🔧 Data Preprocessing Pipelines
+- Designed and built two modular pipelines:
+  1. Initial Pipeline (Basic Preprocessing)
+  2. Advanced Pipeline (With subcomponent-level control)
 
-The report includes summaries of each component developed along with reflections on the technical and personal growth achieved during the internship.
+### 🎯 Model Training & Inference (WIP)
+- Created UI for algorithm selection and hyperparameter setup
+- Started implementing model training, prediction, and inference engines
 
-> 📁 `ACISM_Internship_Report.pdf`
+### 🤝 Collaboration & Mentorship
+- Got technical guidance from **Ashish Belagali**
+- Received architectural insights and support from **Shubham**
 
-## 🚀 How to Use
+---
 
-This repository is primarily for documentation purposes. If you're exploring modular ML pipelines or component-based development in Python, you may find the project summaries insightful.
+## 📈 Learnings & Takeaways
 
-## 📬 Contact
+- Real-world debugging and component design experience
+- Confidence in production-level, reusable Python code
+- Practical exposure to low-code ML systems
+- Improved design thinking, modularity, and system clarity
 
-For questions, feel free to connect:
+---
 
-- **GitHub**: [hhsksonu](https://github.com/hhsksonu)
-- **LinkedIn**: [linkedin.com/in/hhsksonu](https://linkedin.com/in/hhsksonu)
+## 🙏 Acknowledgements
 
+Special thanks to the **ACISM team**, especially:
+- **Ashish Belagali** – for constant mentoring on logic, Python best practices, and component design.
+- **Shubham** – for architecture-level support and insights into Xsemble’s internal functioning.
+
+---
+
+> 📌 _For recruiters or collaborators: This repository serves as a documented showcase of my contributions. Please feel free to reach out via [LinkedIn](https://www.linkedin.com/in/hhsksonu)._  
+>  
+> ✉️ Email: sonukumaryz463@gmail.com  
+> 🔗 GitHub: [@hhsksonu](https://github.com/hhsksonu)
+
+---
