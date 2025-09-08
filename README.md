@@ -1,11 +1,11 @@
-# 🤖 ACISM Internship Report (Machine Learning Components with Xsemble)
+# ACISM Internship Report (Machine Learning Components with Xsemble)
 
 Welcome to the official repository of my 6-month AI/ML internship at **ACISM**.  
 This internship focused on developing modular, reusable components for a low-code AI platform called **Xsemble**, with practical work in data preprocessing, model training, inference, and system debugging.
 
 ---
 
-## 🔒 Code Confidentiality Notice
+## Code Confidentiality Notice
 
 Due to project confidentiality and intellectual property policies, the source code developed during this internship **cannot be publicly shared**.
 
@@ -16,7 +16,7 @@ However, to provide insight into the scope and depth of work done, this reposito
 - Tools, libraries, and techniques used  
 - Key learnings and reflections over the 6-month period  
 
-📄 You can find the complete report here: **[ACISM_Internship_Report.pdf](./ACISM_Internship_Report.pdf)**
+You can find the complete report here: **[ACISM_Internship_Report.pdf](./ACISM_Internship_Report.pdf)**
 
 ---
 
@@ -31,30 +31,30 @@ However, to provide insight into the scope and depth of work done, this reposito
 
 ---
 
-## 🧠 Key Areas of Work
+## Key Areas of Work
 
-### ✅ Technical Enhancements to Xsemble
+### Technical Enhancements to Xsemble
 - Fixed Python execution and pip versioning issues
 - Migrated build setup to `pyproject.toml`
 - Solved component folder structure issues
 - Improved cross-platform compatibility (especially Windows PATH setup)
 
-### 🔧 Data Preprocessing Pipelines
+### Data Preprocessing Pipelines
 - Designed and built two modular pipelines:
   1. Initial Pipeline (Basic Preprocessing)
   2. Advanced Pipeline (With subcomponent-level control)
 
-### 🎯 Model Training & Inference (WIP)
+### Model Training & Inference (WIP)
 - Created UI for algorithm selection and hyperparameter setup
 - Started implementing model training, prediction, and inference engines
 
-### 🤝 Collaboration & Mentorship
+### Collaboration & Mentorship
 - Got technical guidance from **Ashish Belagali**
 - Received architectural insights and support from **Shubham**
 
 ---
 
-## 📈 Learnings & Takeaways
+## Learnings & Takeaways
 
 - Real-world debugging and component design experience
 - Confidence in production-level, reusable Python code
@@ -63,7 +63,7 @@ However, to provide insight into the scope and depth of work done, this reposito
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 Special thanks to the **ACISM team**, especially:
 - **Ashish Belagali** – for constant mentoring on logic, Python best practices, and component design.
@@ -71,9 +71,9 @@ Special thanks to the **ACISM team**, especially:
 
 ---
 
-> 📌 _For recruiters or collaborators: This repository serves as a documented showcase of my contributions. Please feel free to reach out via [LinkedIn](https://www.linkedin.com/in/hhsksonu)._  
+>  _For recruiters or collaborators: This repository serves as a documented showcase of my contributions. Please feel free to reach out via [LinkedIn](https://www.linkedin.com/in/hhsksonu)._  
 >  
-> ✉️ Email: sonukumaryz463@gmail.com  
-> 🔗 GitHub: [@hhsksonu](https://github.com/hhsksonu)
+>  Email: sonukumaryz463@gmail.com  
+>  GitHub: [@hhsksonu](https://github.com/hhsksonu)
 
 ---
